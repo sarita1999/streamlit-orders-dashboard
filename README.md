@@ -30,3 +30,11 @@ If required columns are missing, the app stops and shows the missing column name
 - `requirements.txt`: Python dependencies.
 - `data/demo/Orders.csv`: bundled demo dataset.
 - `data/template/orders_template.csv`: CSV template with required headers.
+
+## Live app
+- Live app URL: [https://app-orders-dashboard.streamlit.app ](https://app-orders-dashboard.streamlit.app/)
+## Screenshot
+<img width="1854" height="866" alt="image" src="https://github.com/user-attachments/assets/315a42c1-b39e-4f4d-a122-17fdfac933d4" />
+
+
+
