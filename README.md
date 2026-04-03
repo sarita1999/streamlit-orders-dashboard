@@ -1,6 +1,6 @@
 # Streamlit Orders Dashboard
 
-Interactive Streamlit dashboard for commercial performance analysis.
+Interactive Streamlit dashboard for order analytics with schema validation and interactive KPI visualizations.
 
 ## What this project shows
 - End-to-end dashboard development in Python + Streamlit.
